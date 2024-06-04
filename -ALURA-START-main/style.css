@@ -31,17 +31,4 @@ background-size: contain;
     padding: 1em;
     color: var(--branco-principal);
     display: block;
-    text-decoration: none;
-}
-
-.botao-secundario{
-background-color: transparent;
-border: 2px solid;
-
-}
-
-.container-aviso{
-font-size: 12px;
-color: var(--cinza-secundario);
-
 }
